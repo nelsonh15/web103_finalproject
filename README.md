@@ -1,4 +1,4 @@
-# [your app name here]
+# interview.dev
 
 CodePath WEB103 Final Project
 
