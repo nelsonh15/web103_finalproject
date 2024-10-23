@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Nelson Huang, Hamza Kurdi, DARRYL NURSE
+Designed and developed by: Nelson Huang, Hamza Kurdi, Darryl Nurse
 
 🔗 Link to deployed app:
 
