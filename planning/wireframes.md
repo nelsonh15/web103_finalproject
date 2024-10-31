@@ -16,5 +16,8 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 ![image](https://github.com/user-attachments/assets/ce6fcbe6-53a4-4c85-bc56-c154d2eee138)
 
 ## Wireframe 3: Main App
-![image](https://github.com/user-attachments/assets/752ffe77-cec2-415a-a2b4-2907260ae1d6)
+![image](https://github.com/user-attachments/assets/46df12ec-8990-4b69-99e4-8b8ec8289036)
+![image](https://github.com/user-attachments/assets/66775204-b0a2-48e9-9a86-6c2f4cc26be7)
 
+## Wireframe 4: Dashboard
+![image](https://github.com/user-attachments/assets/4aee531d-b5c8-49cb-9d3c-e5746913bd5c)
