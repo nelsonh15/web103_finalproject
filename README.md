@@ -27,6 +27,8 @@ Backend: Neon, Prisma, AWS, OpenAI API
 ### ✅ Relational database connected through the cloud
 
 The app will utilize a relational database called Neon, so that it can store users' info like their interview sessions, potential questions present in the real interviews and more.
+![database](https://github.com/user-attachments/assets/6194c3c2-365e-4e1e-932e-e05d3e403c8b)
+
 
 ### Database reset feature
 
