@@ -30,9 +30,10 @@ The app will utilize a relational database called Neon, so that it can store use
 ![database](https://github.com/user-attachments/assets/6194c3c2-365e-4e1e-932e-e05d3e403c8b)
 
 
-### Database reset feature
+### ✅ Database reset feature
 
 The app has the ability to reset the database to its default state. The default state will include the tables: users, interview, feedback, and user_performance. 
+![db_reset](https://github.com/user-attachments/assets/2c1ac011-0a9f-4f61-b6ee-970697443849)
 
 ### ✅ Login Feature
 
