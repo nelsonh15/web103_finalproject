@@ -48,13 +48,13 @@ The interview session will include a set number of questions for a particular jo
 
 ### ✅ Interview History and Analytics
 
-This feature includes a dashboard where users can see their past interview sessions, view the feedback of their responses, and edit/delete the names of their interview sessions. Some data this dashboard would contain would be the name of the session, job position/description of the user's session, the number of experience and the total time of the session. In the feedback section, the user can see the time spent answering questions on a particular interview session, the rating of the session and if the user finished the session in time. Users will also be rated by their interview performance through a ChatGPT generated score. There will also be a database in the backend that stores this data, so that it can be easily retrieved for the frontend. 
+This feature includes a dashboard where users can see their past interview sessions, view the feedback of their responses, and edit/delete the names of their interview sessions. Users can also filter interview sessions based on the session name, job position or years of experience. In the feedback section, the user can see the feedback they receieved from the AI model and they will also be rated by their interview performance through an AI-generated score. There will also be a database in the backend that stores this data, so that it can be easily retrieved for the frontend. 
 ![feedback](https://github.com/user-attachments/assets/8043074b-b8c4-47ea-8c8c-66606f88fd51)
 
 
 ### ✅ AI-powered Interview Feedback
 
-This feature will provide AI-generated feedback for the user at the end of each interview session. The feedback will analyze the user's responses and users will be provided with an AI-generated response regarding their interview responses, so that users know how they can answer the questions better.
+This feature will provide AI-generated feedback for the user at the end of each interview session. The feedback will analyze the user's responses and users will be provided with an AI-generated response regarding their interview responses, so that users know how they can answer the questions better. The user's responses and AI-generated responses will be saved in the database as well for easy retrieval to the frontend.
 ![ai_feedback](https://github.com/user-attachments/assets/a04501ef-de7f-4c42-88cf-f1ee1b542248)
 
 
