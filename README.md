@@ -4,8 +4,6 @@ CodePath WEB103 Final Project
 
 Designed and developed by: Nelson Huang, Hamza Kurdi, Darryl Nurse
 
-🔗 Link to deployed app: https://interview-dev-v2.vercel.app/
-
 ## About
 
 ### Description and Purpose
